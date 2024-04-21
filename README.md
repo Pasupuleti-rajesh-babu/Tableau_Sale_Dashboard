@@ -81,6 +81,6 @@ To use the Tableau dashboards:
 
 Contributions to enhance the dashboards or address any issues are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-## License
+## Acknowledgements
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for commercial or non-commercial purposes.
+Special thanks to Baraa Khatib Salkini for their valuable contributions to this project.
