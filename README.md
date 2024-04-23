@@ -74,7 +74,7 @@ To use the Tableau dashboards:
 
 1. Ensure you have Tableau Desktop or Tableau Server installed.
 2. Download or clone the repository.
-3. Open the Tableau workbook (.twb or .twbx) file in Tableau.
+3. Open the Tableau workbook (.twbx) file in Tableau.
 4. Interact with the dashboards using the provided filters and navigation options.
 
 ## Contributing
